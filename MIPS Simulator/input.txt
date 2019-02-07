@@ -1,0 +1,5 @@
+addi $s1, $s1, 100
+sw $s1, 0($s2)
+lw $s5, 0($s2)
+addi $t3, $s5, 5
+haltSimulation

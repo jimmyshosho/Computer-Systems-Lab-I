@@ -1,0 +1,11 @@
+beq $1,$2,10
+add $s1, $s3, $t3
+addi   $s1, $t2, 15
+beq    $s1 ,$2 ,   10
+sub $t0, $s3, $s4
+lw $4,($5)
+lw $1,12($s2)
+beq ($1), ()$t3, ((21
+sw $1,4($8)
+beq $s7,,$6,,,,,10
+haltSimulation
